@@ -1,0 +1,56 @@
+
+/*background for the primary element; the card is based on the 500-level color #9E9E9E*/
+.primary-box {
+    width: 300px;
+    padding: 5px;
+    border: 1px solid white;
+    border-radius: 10px;
+    box-shadow: 0 0 5px 6px #ccc;
+    background-image: url(https://s26.postimg.org/lpbpvvcxl/glitter_background.jpg);
+}
+
+/*300 color for the secondary element*/
+.secondary-box {
+    padding: 5px;
+    border: 1px solid white;
+    border-radius: 10px;
+    background-color: #E0E0E0;
+}
+
+h3 {
+    font-family: 'Lato', sans-serif;
+    padding-left: 5px;
+    color: black;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+img {
+    width: 299px;
+    border: 1px solid white;
+    border-radius: 10px;
+ }
+
+p {
+    font-family: 'Catamaran', sans-serif;
+    font-size: small;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.description {
+    font-style: italic;
+}
+
+ul {
+    font-family: 'Catamaran', sans-serif;
+    font-size: small;
+    list-style-type: none;
+    display: block;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+span {
+    font-weight: bold;
+}
