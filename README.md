@@ -1,5 +1,7 @@
 # FEND-animal-trading-card
-## Project submission for the Udacity FEND program
 
-This project is based on the Udacity "Animal Trading Cards" Front-End Nanodegree rubric.
-The aim of the project was to create a trading card which showcases the HTML and CSS skills learned so far.
+## Project Overview
+
+**Project acceptance date: 15 February 2018**
+
+Based on a supplied design prototype, the task here was to create a trading card following the [Udacity rubric](https://review.udacity.com/#!/rubrics/151/view) and very specific design instructions. The project tested the HTML and CSS skills learned so far.
